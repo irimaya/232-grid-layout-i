@@ -4,7 +4,7 @@
 	height: 100%;
 }
 
-/* First Row */
+/* First Columns */
 .box-1,
 .box-4,
 .box-7,
@@ -44,6 +44,7 @@
 	grid-column: 3;
 }
 
+/* Rows */
 .box-1,
 .box-2,
 .box-3 {
@@ -89,7 +90,6 @@
 .box-27 {
 	grid-row: 9;
 }
-
 .box-28,
 .box-29,
 .box-30 {
